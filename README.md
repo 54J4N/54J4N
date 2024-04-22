@@ -1,4 +1,3 @@
-![logo](https://github.com/54J4N/54J4N/blob/main/ghimireb.png
 <h1 align="center">Hi 👋, I'm Sajan Ghimire</h1>
 <h3 align="center">A passionate Independent Security Researcher from Nepal</h3>
 
