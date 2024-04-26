@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sajanghimire18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sajanghimire18" height="30" width="40" /></a>
+<a href="https://twitter.com/QuietEcho18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="QuietEcho18" height="30" width="40" /></a>
 <a href="https://np.linkedin.com/in/54j4n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://np.linkedin.com/in/54j4n" height="30" width="40" /></a>
 <a href="https://instagram.com/sajan_ghiwir3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sajan_ghiwir3" height="30" width="40" /></a>
-<a href="https://medium.com/@sajan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sajan77" height="30" width="40" /></a>
+<a href="https://medium.com/@inksecghiwir3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sajan77" height="30" width="40" /></a>
 </p>
 
 Try Hack Me profile
