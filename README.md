@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/54J4N/count.svg"/>
 </p>
 <h1 align="center">Hi 👋, I'm Sajan Ghimire</h1>
-<h3 align="center">A passionate Independent Security Researcher from Nepal</h3>
+<h3 align="center">Be yourself; everyone else is already taken. -Oscar Wilde</h3>
 
 <img src="https://media.tenor.com/nf985lW6iawAAAAC/anonymous-hacker.gif" width=250  align="right" >
 
