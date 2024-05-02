@@ -1,3 +1,7 @@
+<p align="center"> 
+  <b>Profile Views</b><br>
+  <img src="https://profile-counter.glitch.me/inputstudios/count.svg"/>
+</p>
 <h1 align="center">Hi 👋, I'm Sajan Ghimire</h1>
 <h3 align="center">A passionate Independent Security Researcher from Nepal</h3>
 
