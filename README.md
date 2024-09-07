@@ -21,7 +21,7 @@
 
 Try Hack Me profile
 
-<script src="https://tryhackme.com/badge/1494392"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/.SajanGhimire..png" alt="TryHackMe">
 
 
 <h3 align="left">Languages and Tools:</h3>
